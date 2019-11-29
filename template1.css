@@ -1,0 +1,64 @@
+header{
+    display: flexbox;
+    flex-direction: row;
+    width: 100%;
+}
+.logo {
+    width: 1440px;
+    height: 900px;
+    background-color: #ffffff;
+    border-radius: 100px;
+    }
+
+.logo1{
+    display: flexbox;
+    width: 1440px;
+    height: 900px;
+    background-color: #ffffff;
+    border-radius: 200px;
+}
+.Creative {
+    width: 126px;
+    height: 35px;
+    font-family: Montserrat;
+    font-size: 28.5px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.05px;
+    color: #838a9b;
+  }
+.Creative .text-style-1 {
+    letter-spacing: -0.25px;
+  }
+.Creative .text-style-2 {
+    letter-spacing: -0.48px;
+  }
+
+.studio{
+    width: 99px;
+    height: 35px;
+    font-family: Montserrat;
+    font-size: 28.5px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.05px;
+    color: #838a9b;
+  }
+
+.home{
+    width: 57px;
+    height: 21px;
+    font-family: Montserrat;
+    font-size: 17.1px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.01px;
+    color: #777d8b;
+      
+}
